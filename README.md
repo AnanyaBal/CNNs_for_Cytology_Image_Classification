@@ -1,4 +1,4 @@
-# CNN Image Classifier
+# CNN Image Classifiers
 
 This repository contains code for the various CNNs I applied to classify Breast Fine Needle Aspiration Cytology images for my final year capstone research project.
 
